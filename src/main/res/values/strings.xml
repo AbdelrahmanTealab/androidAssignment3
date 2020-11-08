@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AbdelrahmanTealab_ MAPD711_Assignment3</string>
+    <string name="mainScreenTitle">Select your city below !</string>
+    <string name="north_york">North York</string>
+    <string name="toronto_downtown">Toronto Downtown</string>
+    <string name="scarborough">Scarborough</string>
+    <string name="mississauga">Mississauga</string>
+    <string name="oakville">Oakville</string>
+
+    <string name="title_activity_maps">Map</string>
+</resources>
